@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "697840338260",
+    "firebase_url": "https://imagegame-78ae9.firebaseio.com",
+    "project_id": "imagegame-78ae9",
+    "storage_bucket": "imagegame-78ae9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697840338260:android:afa9c437644da406",
+        "android_client_info": {
+          "package_name": "com.example.mirza.imagegame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697840338260-4l5i0leijg9nho0sv01vqhlq101t77ki.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mirza.imagegame",
+            "certificate_hash": "d21bd394442d751f18e111b38482325b1059968e"
+          }
+        },
+        {
+          "client_id": "697840338260-g2c68g3rdjcphl15a85chdfctkv58dhd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3k48kYGvJ4aqfQqz79orrKjLgdOR67QI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697840338260-g2c68g3rdjcphl15a85chdfctkv58dhd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

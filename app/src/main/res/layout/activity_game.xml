@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".GameActivity">
+    <LinearLayout android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:orientation="vertical">
+
+        <ImageView android:id="@+id/tigerimage"
+                   android:layout_marginTop="15dp"
+                   android:layout_marginLeft="15dp"
+                   android:layout_width="320dp"
+                   android:layout_height="150dp"
+                   android:scaleType="centerCrop"/>
+
+        <TextView android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:layout_marginTop="10dp"
+                  android:fontFamily="@font/tall"
+                  android:text="romeli cxovelia gamosaxuli suraTze ? "
+                  android:layout_gravity="center"
+                  android:textSize="20sp"/>
+        <EditText android:layout_width="match_parent"
+                  android:layout_height="match_parent"
+                  android:textSize="25sp"
+                  android:id="@+id/tigertxt"
+                  android:gravity="center"
+                  android:layout_marginTop="10dp"
+                  android:fontFamily="@font/tall"
+                  />
+
+
+        <ImageView android:id="@+id/koalaimage"
+                   android:layout_marginTop="15dp"
+                   android:layout_marginLeft="15dp"
+                   android:layout_width="320dp"
+                   android:layout_height="320dp"
+                   android:scaleType="centerCrop"/>
+
+        <TextView android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:layout_marginTop="10dp"
+                  android:fontFamily="@font/tall"
+                  android:text="romeli cxovelia gamosaxuli suraTze ? "
+                  android:layout_gravity="center"
+                  android:textSize="20sp"/>
+        <EditText android:layout_width="match_parent"
+                  android:layout_height="match_parent"
+                  android:textSize="25sp"
+                  android:id="@+id/koalatxt"
+                  android:gravity="center"
+                  android:layout_marginTop="10dp"
+                  android:fontFamily="@font/tall"
+                  android:text=""/>
+
+        <ImageView android:id="@+id/zebrarimage"
+                   android:layout_marginTop="15dp"
+                   android:layout_marginLeft="15dp"
+                   android:layout_width="320dp"
+                   android:layout_height="190dp"
+                   android:scaleType="centerCrop"/>
+
+        <TextView android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:layout_marginTop="10dp"
+                  android:fontFamily="@font/tall"
+                  android:text="romeli cxovelia gamosaxuli suraTze ? "
+                  android:layout_gravity="center"
+                  android:textSize="20sp"/>
+        <EditText android:layout_width="match_parent"
+                  android:layout_height="match_parent"
+                  android:textSize="25sp"
+                  android:id="@+id/zebratxt"
+                  android:gravity="center"
+                  android:layout_marginTop="10dp"
+                  android:fontFamily="@font/tall"
+                  android:text=""/>
+
+        <ImageView android:id="@+id/ciyviimage"
+                   android:layout_marginTop="15dp"
+                   android:layout_marginLeft="15dp"
+                   android:layout_width="320dp"
+                   android:layout_height="150dp"
+                   android:scaleType="centerCrop"/>
+
+        <TextView android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:layout_marginTop="10dp"
+                  android:fontFamily="@font/tall"
+                  android:text="romeli cxovelia gamosaxuli suraTze ? "
+                  android:layout_gravity="center"
+                  android:textSize="20sp"/>
+        <EditText android:layout_width="match_parent"
+                  android:layout_height="match_parent"
+                  android:textSize="25sp"
+                  android:id="@+id/ciyvitxt"
+                  android:gravity="center"
+                  android:layout_marginTop="10dp"
+                  android:fontFamily="@font/tall"
+                  android:text=""/>
+
+        <ImageView android:id="@+id/lomirimage"
+                   android:layout_marginTop="15dp"
+                   android:layout_marginLeft="15dp"
+                   android:layout_width="320dp"
+                   android:layout_height="150dp"
+                   android:scaleType="centerCrop"/>
+
+        <TextView android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:layout_marginTop="10dp"
+                  android:fontFamily="@font/tall"
+                  android:text="romeli cxovelia gamosaxuli suraTze ? "
+                  android:layout_gravity="center"
+                  android:textSize="20sp"/>
+        <EditText android:layout_width="match_parent"
+                  android:layout_height="match_parent"
+                  android:textSize="25sp"
+                  android:id="@+id/lomitxt"
+                  android:layout_marginTop="10dp"
+                  android:gravity="center"
+                  android:fontFamily="@font/tall"
+                  android:text=""/>
+
+        <ImageView android:id="@+id/iaguariimage"
+                   android:layout_marginTop="15dp"
+                   android:layout_marginLeft="15dp"
+                   android:layout_width="320dp"
+                   android:layout_height="150dp"
+                   android:scaleType="centerCrop"/>
+
+        <TextView android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:layout_marginTop="10dp"
+                  android:fontFamily="@font/tall"
+                  android:text="romeli cxovelia gamosaxuli suraTze ? "
+                  android:layout_gravity="center"
+                  android:textSize="20sp"/>
+        <EditText android:layout_width="match_parent"
+                  android:layout_height="match_parent"
+                  android:textSize="25sp"
+                  android:id="@+id/iaguaritxt"
+                  android:gravity="center"
+                  android:layout_marginTop="10dp"
+                  android:fontFamily="@font/tall"
+                  android:text=""/>
+
+
+    </LinearLayout>
+
+</ScrollView>
